@@ -8,7 +8,7 @@ Online Attendance Management System 1.0 is developed in a standard way using  HT
  - Intall the requirements, if you already have it then skip.
  - Download the source code and extract the source code to a web accessible folder.
  - Create a database and import database from given \*.sql
- - You are ready!
+ - You are ready to go!
  
 ## Features
 - User Friendly, Secured :lock:
