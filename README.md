@@ -29,7 +29,7 @@ Online Attendance Management System 1.0 is developed in a standard way using  HT
 - Learn how to learn.  
 
 ## License
-MIT  
+MIT   
 
 ## Thanks
 Feel free to create PRs and create issues for suggestions or discussion.
